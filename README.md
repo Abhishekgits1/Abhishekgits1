@@ -1,11 +1,8 @@
-<h2>Hey, Hallo, नमस्ते 🙏🏻, I'm Abhishek singh kushwaha! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
+<h2 align="center">Hey, Hallo, नमस्ते 🙏🏻, I'm Abhishek singh kushwaha! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Software+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Software+Developer;Aspiring+Learner&center=true&width=500&height=80"></a>
 </p>
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="60" width="100%">
-
 
 - 👋 Hi, I’m @Abhishekgits1        --=> Abhishek Singh Kushwaha <=--
 - 👀 I’m interested in             --=> Singing And Trying To Learn New Things  <=--
@@ -20,18 +17,6 @@
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="Git" />
-    s  <br>.Net
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
     </td>
@@ -39,9 +24,7 @@
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
+        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
     </td>
@@ -53,6 +36,8 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
+  </tr>
+  <tr>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
@@ -66,10 +51,10 @@
       <br>Nodejs
       </td>
       </td>
-   
-  
  </tr>
 </table>
+   <img src="https://i.imgur.com/dBaSKWF.gif" height="60" width="100%">
+
 
 <!---
 Abhishekgits1/Abhishekgits1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
